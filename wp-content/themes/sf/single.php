@@ -12,8 +12,6 @@
     <div class="txt-empresa"><?php the_content(); ?></div>
 <br>
 
-    
-
 </div>
 
 <?php get_sidebar();?>
